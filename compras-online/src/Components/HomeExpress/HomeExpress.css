@@ -1,0 +1,21 @@
+.Information {
+    overflow: hidden;
+    background-color: #1a1a1a;
+    size: 10px;
+    padding: 10px 10px;
+    
+    margin: 45px;
+    border: 100px;
+    float: center;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+ 
+  }
+
+  .h2{
+    font-family:"Times New Roman";
+  }
